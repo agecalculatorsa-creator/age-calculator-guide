@@ -21,3 +21,12 @@ You can use this online age calculator to calculate your age quickly:
 An age calculator can help with personal planning, checking your age, and calculating the time between dates.
 
 **Disclaimer:** This is an independent calculator and is not an official Saudi government service. Please verify official age requirements with the relevant authority.
+## Saudi Citizen Account Calculator
+
+The Citizen Account Calculator can help users estimate their potential support under Saudi Arabia's Citizen Account Program.
+
+You can explore this independent calculator here:
+
+[Try the Citizen Account Calculator](https://citizenacount.com/)
+
+**Note:** This is an independent tool, not an official Saudi government service. For eligibility and confirmed payment details, check the official Citizen Account Program channels.
